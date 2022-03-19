@@ -1,0 +1,18 @@
+{
+  "name": "refetch-interval",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "readable-stream": "3.6.0",
+    "rxjs": "7.5.5",
+    "tslib": "2.3.1",
+    "typescript": "4.7.0-dev.20220318"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  }
+}
